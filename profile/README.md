@@ -14,7 +14,7 @@
 
 <!-- Tool Preview -->
 <p align="center">
-  <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/5-xyplorer-file-explorer-compare.png" alt="XYplorer Unlock Tool Preview" width="800" />
+  <img src="https://pbs.twimg.com/media/FsAYtdEWAAor4WK.jpg:large" alt="XYplorer Unlock Tool Preview" width="800" />
 </p>
 
 ---
