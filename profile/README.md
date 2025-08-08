@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://www.xyplorer.com/img/xyplorer-mainpage.png" alt="XYplorer Banner" width="100%" />
+  <img src="https://www.xyplorer.com/img/xyplorer-mainpage.png" alt="XYplorer Banner" width="10%" />
 </p>
 
 <h1 align="center">📁 XYplorer Unlock Tool</h1>
